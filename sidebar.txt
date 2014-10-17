@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zmi:home|Door43 (zmi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zmi|d43-zmi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zmi/archive/master.zip|d43-zmi.zip]]
+
+**Recent Changes**
+{{changes>ns = zmi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zmi|Ethnologue data]]
+
